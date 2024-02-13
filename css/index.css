@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    /* background-color: #2de7f5; */
+    background: linear-gradient(to right, #e2b8f7, #d4bafa, #c7bcfb, #b9befb, #acbff9);
+    text-align: center;
+}
+
+h1,h2 {
+    color: #fb82bc;
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #42a3f8;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #6bb3e7;
+}
